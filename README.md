@@ -1,16 +1,18 @@
 #### Demoscene inspired limited program art
+
 ---
 **HTML5 Demos** - self-contained html with inline javascript
 
-##### 185 bytes - [Synchrony](185b-synchrony.html)
-My first ever demo submission, for the [synchrony.nyc](http://synchrony.nyc) "nano" compos, 256 byte limit.
-While developing I also made a **187 byte [glitch version](187b-synchrony.html)** that looked cool so I decided to submit that too.
+##### 185 bytes - [Synchrony](https://shu1.github.io/demo/185b-synchrony.html)
+My first ever demo submission, for the [synchrony.nyc](http://synchrony.nyc) "nano" compos, 256 byte limit.  
+While developing I also made a **187 byte [glitch version](https://shu1.github.io/demo/187b-synchrony.html)** that looked interesting so I decided to submit that too.  
 I couldn't have made these without various tricks I learned from [p01.org](http://www.p01.org/minicraft/)
 
-##### 247 bytes - [Matrix rain](247b-matrix.html)
-The famous digital rain code from The Matrix, in sub-256 byte form.
-Also a **255 byte [high res version](255b-matrix.html)** but doesn't seem to work on mobile browsers.
-And a **208 byte [low res version](208b-matrix.html)** that uses the 300x300 canvas trick from [p01.org](http://www.p01.org/minicraft/)
+##### 247 bytes - [Matrix rain](https://shu1.github.io/demo/247b-matrix.html)
+The famous digital rain code from The Matrix, in sub-256 byte form.  
+Also a **255 byte [high res version](https://shu1.github.io/demo/255b-matrix.html)** but doesn't seem to work on mobile browsers.  
+And a **208 byte [low res version](https://shu1.github.io/demo/208b-matrix.html)** that uses the 300x300 canvas trick from [p01.org](http://www.p01.org/minicraft/)
+
 ---
 **Vertex Shader Demos** - viewable on **[VertexShaderArt.com](https://www.vertexshaderart.com)**
 
