@@ -5,8 +5,8 @@
 
 #### 185 bytes - [Synchrony](https://shu1.github.io/demo/185b-synchrony.html)
 My first ever demo submission, for the [synchrony.nyc](http://synchrony.nyc) "nano" compos, 256 byte limit.  
-While developing I also made a **187 byte [glitch version](https://shu1.github.io/demo/187b-synchrony.html)** that looked cool so I submitted that too.  
-I couldn't have made these without various tricks I learned from [p01.org](http://www.p01.org/minicraft/)
+While developing it I also made a **187 byte [glitch version](https://shu1.github.io/demo/187b-synchrony.html)** that ended up interesting so I submitted that too.  
+I couldn't have made any of these demos without various tricks I learned from [p01.org](http://www.p01.org/minicraft/)
 
 #### 247 bytes - [Matrix rain](https://shu1.github.io/demo/247b-matrix.html)
 The famous digital rain code from The Matrix, in sub-256 byte form.  
