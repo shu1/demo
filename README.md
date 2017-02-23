@@ -1,4 +1,3 @@
-
 **Demoscene-inspired limited program art**
 
 ---
@@ -11,11 +10,13 @@ These demos would not have been possible without various tricks learned from [p0
 
 **247 bytes - [Matrix Rain](https://shu1.github.io/demo/247b-matrix.html)** [[p](http://www.pouet.net/prod.php?which=68918 "pouet.net")] [[d](https://www.dwitter.net/d/800 "dwitter.net")]  
 The famous digital rain from The Matrix, in sub-256 byte form.  
-Also a **255 byte [hi-res version](https://shu1.github.io/demo/255b-matrix.html)** but doesn't seem to work on mobile browsers.
+Also a **208 byte [lo-res version](https://shu1.github.io/demo/208b-matrix.html)** that uses the same 300x300 canvas trick as above.  
+And a **255 byte [hi-res version](https://shu1.github.io/demo/255b-matrix.html)** but doesn't seem to work on mobile browsers.
 
 **240 bytes - [Parallax Rain](https://shu1.github.io/demo/parallax-rain.html)** [[d](https://www.dwitter.net/d/803 "dwitter.net")]  
 From the above Matrix Rain demo, changing the sin() to a tan() resulted in a parallax rain effect.  
-Also a **246 byte [hi-res version](https://shu1.github.io/demo/parallax-rain-hires.html)** but doesn't seem to work on mobile browsers.
+Also a **203 byte [lo-res version](https://shu1.github.io/demo/parallax-rain-lores.html)**.  
+And a **246 byte [hi-res version](https://shu1.github.io/demo/parallax-rain-hires.html)** but doesn't seem to work on mobile browsers.
 
 ---
 **vertex shader demos** - viewable on **[VertexShaderArt.com](https://www.vertexshaderart.com)**
