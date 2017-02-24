@@ -18,6 +18,9 @@ From the above Matrix Rain demo, changing the sin() to a tan() resulted in a par
 Also a **203 byte [lo-res version](https://shu1.github.io/demo/parallax-rain-lores.html)**.  
 And a **246 byte [hi-res version](https://shu1.github.io/demo/parallax-rain-hires.html)** but doesn't seem to work on mobile browsers.
 
+**3358 bytes - [Doodle Asteroids](https://shu1.github.io/demo/doodle-asteroids.html)**  
+4k demo. A Google doodle that turns into a game when you click. Also works on mobile.
+
 ---
 **vertex shader demos** - viewable on **[VertexShaderArt.com](https://www.vertexshaderart.com)**
 
