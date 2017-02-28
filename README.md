@@ -18,6 +18,9 @@ From the above matrix rain demo, changing the sin() to a tan() resulted in a par
 Also a **203b [lo-res version](https://shu1.github.io/demo/sin-city-lores.html)**.  
 And a **246b [hi-res version](https://shu1.github.io/demo/sin-city-hires.html)** but doesn't run on mobile browsers.
 
+**918b - [sin city 1k](https://shu1.github.io/demo/sin-city-1k.html)**  
+An evolution of the above sin city 256b demo for [JS1k 2017](http://js1k.com/2017-magic/).
+
 **3358b - [doodleroids](https://shu1.github.io/demo/doodle-asteroids.html)** [[p](http://www.pouet.net/prod.php?which=69044 "pouet.net")]  
 4k demo. A Google doodle that turns into a game. Also works on mobile.
 
