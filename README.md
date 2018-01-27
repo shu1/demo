@@ -8,7 +8,7 @@ My first ever demo submission, for the [synchrony.nyc](http://synchrony.nyc) "na
 Also a **185b [glitch version](https://shu1.github.io/demo/synchrony-glitch.html)** [[p](http://www.pouet.net/prod.php?which=68921 "pouet.net")] that was a bug that ended up looking interesting.  
 These demos would not have been possible without various tricks learned from [p01.org](http://www.p01.org/minicraft/)
 
-**239b - [matrix rain](https://shu1.github.io/demo/matrix-rain.html)** [[p](http://www.pouet.net/prod.php?which=68918 "pouet.net")] [[d](https://www.dwitter.net/d/1199 "dwitter.net")]  
+**239b - [matrix rain](https://shu1.github.io/demo/matrix-rain.html)** [[p](http://www.pouet.net/prod.php?which=74311 "pouet.net")] [[d](https://www.dwitter.net/d/1199 "dwitter.net")]  
 The famous digital rain from The Matrix, under 256b.  
 Also a **203b [lo-res version](https://shu1.github.io/demo/matrix-rain-lores.html)** that uses the same 300x300 canvas trick as above.  
 And a **246b [hi-res version](https://shu1.github.io/demo/matrix-rain-hires.html)** but doesn't run on mobile browsers.
@@ -18,11 +18,11 @@ From the above matrix rain demo, changing the sin() to a tan() resulted in a par
 Also a **203b [lo-res version](https://shu1.github.io/demo/sin-city-lores.html)**.  
 And a **246b [hi-res version](https://shu1.github.io/demo/sin-city-hires.html)** but doesn't run on mobile browsers.
 
-**913b - [sin city 1k](https://shu1.github.io/demo/sin-city-1k.html)** [[j](http://js1k.com/2017-magic/demo/2900 "js1k.com")]  
+**913b - [sin city 1k](https://shu1.github.io/demo/sin-city-1k.html)** [[j](http://js1k.com/2017-magic/demo/2900 "js1k.com")] [[p](http://www.pouet.net/prod.php?which=74312 "pouet.net")]  
 An evolution of the above sin city 256b demo for [JS1k 2017](http://js1k.com/2017-magic/).  
 Click to switch between 4 modes.
 
-**3500b - [doodleroids](https://shu1.github.io/demo/doodleroids.html)** [[p](http://www.pouet.net/prod.php?which=69044 "pouet.net")]  
+**3494b - [doodleroids](https://shu1.github.io/demo/doodleroids.html)** [[p](http://www.pouet.net/prod.php?which=69044 "pouet.net")]  
 4k demo. A Google doodle that turns into a game. Also works on mobile.
 
 ---
