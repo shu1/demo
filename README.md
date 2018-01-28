@@ -33,3 +33,6 @@ A port of the above html5 demo to vertex shaders. Uses the same math, but the re
 
 **119b - [matrix rain](https://www.vertexshaderart.com/art/4MXkkkQvDcbZT2bmy)**  
 An accidental discovery of The Matrix digital rain effect while experimenting with the above synchrony demo. The core logic is similar.
+
+**124b - [sin city](https://www.vertexshaderart.com/art/Ffs2irmibSP7oFuTu)**  
+From the above matrix rain demo, changing the sin() to a tan() resulted in a parallax rain effect.  
