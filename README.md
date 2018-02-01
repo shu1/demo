@@ -18,7 +18,7 @@ From the above matrix rain demo, changing the sin() to a tan() resulted in a par
 Also a **203b [lo-res version](https://shu1.github.io/demo/sin-city-lores.html)**.  
 And a **246b [hi-res version](https://shu1.github.io/demo/sin-city-hires.html)** but doesn't run on mobile browsers.
 
-**905b - [sin city 1k](https://shu1.github.io/demo/sin-city-1k.html)** [[j](http://js1k.com/2017-magic/demo/2900 "js1k.com")] [[p](http://www.pouet.net/prod.php?which=74312 "pouet.net")]  
+**1000b - [sin city 1k](https://shu1.github.io/demo/sin-city-1k.html)** [[j](http://js1k.com/2017-magic/demo/2900 "js1k.com")] [[p](http://www.pouet.net/prod.php?which=74312 "pouet.net")]  
 An evolution of the above sin city 256b demo for [JS1k 2017](http://js1k.com/2017-magic/).  
 Click to switch between 4 modes.
 
