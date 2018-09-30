@@ -4,7 +4,7 @@
 **html5 demos** - self-contained html with inline javascript
 
 **183b - [synchrony](https://shu1.github.io/demo/synchrony.html)** [[p](http://www.pouet.net/prod.php?which=68917 "pouet.net")]  
-My first ever demo submission, for the [synchrony.nyc](http://synchrony.nyc) "nano" compos, 256b limit.  
+My first ever demo entry, for the [synchrony.nyc](http://synchrony.nyc) "nano" compos, 256b limit.  
 Also a **185b [glitch version](https://shu1.github.io/demo/synchrony-glitch.html)** [[p](http://www.pouet.net/prod.php?which=68921 "pouet.net")] that was a bug that ended up looking interesting.  
 These demos would not have been possible without various tricks learned from [p01.org](http://www.p01.org/minicraft/)
 
@@ -24,6 +24,9 @@ Click to switch between 4 modes.
 
 **3494b - [doodleroids](https://shu1.github.io/demo/doodleroids.html)** [[p](http://www.pouet.net/prod.php?which=69044 "pouet.net")]  
 4k demo. A Google doodle that turns into a game. Also works on mobile.
+
+**4073b - [rec-rec](https://shu1.github.io/demo/rec-rec.html)** [[j](https://js13kgames.com/entries/rec-rec "js13kgames.com")]  
+4k self-extracting png. An adaptation of my entry for [js13kGames 2018](https://js13kgames.com/entries/rec-rec). Also works on mobile.
 
 ---
 **vertex shader demos** - viewable on **[VertexShaderArt.com](https://www.vertexshaderart.com)**
