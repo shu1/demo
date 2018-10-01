@@ -25,7 +25,7 @@ Click to switch between 4 modes.
 **3494b - [doodleroids](https://shu1.github.io/demo/doodleroids.html)** [[p](http://www.pouet.net/prod.php?which=69044 "pouet.net")]  
 4k demo. A Google doodle that turns into a game. Also works on mobile.
 
-**4073b - [rec-rec](https://shu1.github.io/demo/rec-rec.html)** [[j](https://js13kgames.com/entries/rec-rec "js13kgames.com")]  
+**4070b - [rec-rec](https://shu1.github.io/demo/rec-rec.html)** [[j](https://js13kgames.com/entries/rec-rec "js13kgames.com")]  
 4k self-extracting png. An adaptation of my entry for [js13kGames 2018](https://js13kgames.com/entries/rec-rec). Also works on mobile.
 
 ---
